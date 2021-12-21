@@ -8,7 +8,7 @@
   - [Smalltalk背后的设计原则](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/design-principles-behind-smalltalk/)
 
 
-## Kay
+## Alan Kay
 
 - [Kay - A Personal Computer for Children of All Ages.pdf](http://worrydream.com/refs/Kay%20-%20A%20Personal%20Computer%20for%20Children%20of%20All%20Ages.pdf)
   - [一款适合各年龄儿童的个人电脑](https://zhuanlan.zhihu.com/p/44658507)
