@@ -1,6 +1,6 @@
 # Personal-Computing-Papers
 
-整理「个人计算(Personal-Computing)」相关论文的中文翻译，关注的论文主要来自 Bret Vicotr 整理的[refs](http://worrydream.com/refs/)。
+整理「个人计算(Personal-Computing)」相关论文的中文翻译，关注的论文主要来自 Bret Victor 整理的[refs](http://worrydream.com/refs/)。
 
 ## Daniel Ingalls
 
